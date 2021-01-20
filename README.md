@@ -14,4 +14,6 @@ READ( GET : http://localhost:5000/api/products/)
 DELETE( POST: http://localhost:5000/api/products/ json-->{"product_id":"productId" } )
 }
 
-=> the id's are the \_id field of their respective collections
+=> the id's are the _id field of their respective collections
+
+
